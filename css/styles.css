@@ -1,0 +1,47 @@
+html,body{
+    background-color: hsl(217, 54%, 11%);
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.main{
+    margin:0 auto;
+    height:75%;
+    width: 25%;
+    background-color:hsl(216, 50%, 16%);
+    position:relative;
+    top:12%;
+    display:block;
+    /* display:flex; */
+    /* justify-content: center; */
+}
+
+img{
+    margin:5%;
+}
+
+.text{
+    margin-left: 5%;
+}
+
+.header{
+    color:white;
+}
+
+.description{
+    color:hsl(215, 51%, 70%);
+}
+
+.eth{
+    color:hsl(178, 100%, 50%);
+}
+
+.days{
+    color:hsl(215, 51%, 70%);
+    display: inline;
+}
+
+hr{
+    color:hsl(215, 32%, 27%);
+}
